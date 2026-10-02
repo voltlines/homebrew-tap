@@ -1,8 +1,8 @@
 class Pgsprout < Formula
   desc "Masked golden copies of Postgres, sprouted into local branches in seconds"
   homepage "https://github.com/voltlines/voltlines-pgsprout"
-  url "https://github.com/voltlines/voltlines-pgsprout/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "9dbdbd7609a82e918296d58fe95d3b54570499d368138382085feb2a1df22028"
+  url "https://github.com/voltlines/voltlines-pgsprout/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "3080c44a1ffafde0b8e95c4b0f97939ae122f1f139dd4cd29010cd2e4e51e61f"
   license "MIT"
 
   depends_on "greenmask"
